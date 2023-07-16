@@ -1,0 +1,3 @@
+npm install @material-ui/icons
+npm i --save material-ui-search-bar
+set NODE_OPTIONS=--openssl-legacy-provider
